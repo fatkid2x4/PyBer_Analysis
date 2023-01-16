@@ -8,7 +8,7 @@ Reading the graph below we can see that the data makes sense.  High population a
 
 There was a consistent uptick in total money in all city types at the end of feb but only urban drives saw upticks through march. We would need to get info from riders as to why they are riding in March, but most likely due to spring break.
 
-[PyBer_fare_summary.png](https://github.com/fatkid2x4/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
+![PyBer_fare_summary.png](https://github.com/fatkid2x4/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
 ## Summary
 
